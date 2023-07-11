@@ -1,0 +1,22 @@
+.main_table_container {display: flex;
+justify-content: space-between;
+
+height: 250px;
+padding: 0 30px;
+
+gap: 50px;}
+
+
+.whole_article {display: flex;
+flex-wrap: wrap;
+
+}
+.main_content_detailed_title {height: 30px;}
+ .article_container
+{width: 50%;}
+
+
+.main_contents_detailed {display: flex;
+flex-wrap: wrap;
+
+}

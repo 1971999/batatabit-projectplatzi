@@ -1,0 +1,23 @@
+.main_table_container {display: flex;
+justify-content: center;
+
+gap: 0;}
+
+.whole_article {display: flex;
+    flex-wrap: wrap;
+
+}
+.main_content_detailed_title {height: 30px;}
+.main_content_detailed_parrafo {font-size: large;
+margin-top: 8px;}
+
+
+.article {width: 480px;
+}
+.parrafo_article_one {width: 100%;}
+.parrafo_article_two {width: 100%;}
+.parrafo_article_three {width: 100%;}
+.parrafo_article_four {width: 100%;}
+
+.heading_beneath_picture {height: 40px;}
+.parrafo_beneath_picture {margin: 0;}
